@@ -1,0 +1,7 @@
+$ mvn dependency:resolve -DClassifier=javadoc -> adds dependency
+
+$ mvn clean  -> cleans the old supplement files
+
+$ mvn compile  => compiles the build
+
+$ mvn test -PTestname or $ mvn test => for whole group of test classes
