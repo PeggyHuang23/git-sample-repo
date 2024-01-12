@@ -5,3 +5,9 @@ $ mvn clean  -> cleans the old supplement files
 $ mvn compile
 
 $ mvn test -PTestname or $ mvn test => for whole group of test classes
+
+
+
+
+
+Glory to God!
