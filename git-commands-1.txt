@@ -1,0 +1,7 @@
+$ mvn dependency:resolve -DClassifier=javadoc
+
+$ mvn clean
+
+$ mvn compile
+
+$ mvn test -PTestname or $ mvn test => for whole group of test classes
