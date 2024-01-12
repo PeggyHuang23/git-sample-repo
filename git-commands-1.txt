@@ -1,4 +1,4 @@
-$ mvn dependency:resolve -DClassifier=javadoc
+$ mvn dependency:resolve -DClassifier=javadoc -> adds dependency
 
 $ mvn clean
 
