@@ -1,6 +1,6 @@
 $ mvn dependency:resolve -DClassifier=javadoc -> adds dependency
 
-$ mvn clean
+$ mvn clean  -> cleans the old supplement files
 
 $ mvn compile
 
