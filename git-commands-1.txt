@@ -5,19 +5,14 @@ $ mvn clean  -> cleans the old supplement files
 $ mvn compile
 
 $ mvn test -PTestname or $ mvn test => for whole group of test classes
-<<<<<<< HEAD
 
-
-
-
-
-Glory to God!
-
-Saint is the title
-=======
 =======================================================
 
 The quick fox jumps over the lazy dog
 
 =======================================================
->>>>>>> dc2af9e2a3c9feef0162638a6818b1209a2a2435
+
+Glory to God!
+
+Saint is the title
+
